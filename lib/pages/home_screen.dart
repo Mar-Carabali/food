@@ -68,7 +68,7 @@ class HomeScreen extends StatelessWidget {
                         ),
 
                         const Text(
-                          'Carbali Cas',
+                          'Carbali Castillo',
                           style: TextStyle(
                             fontSize: 18,
                             color: Colors.black,
